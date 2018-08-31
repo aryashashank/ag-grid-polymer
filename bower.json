@@ -19,8 +19,5 @@
     "bower_components",
     "test",
     "tests"
-  ],
-  "dependencies": {
-    "ag-grid": "^18.0.0"
-  }
+  ]
 }
